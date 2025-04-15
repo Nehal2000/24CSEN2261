@@ -6,4 +6,5 @@ Data Structures and Algorithms
 [Merges_sort](Merges_sort.py)  
 [Stack](Stack.py)  
 [bucket_sort](bucket_sort.py)  
-[bucketsort](bucketsort.py)
+[QUICK_SORT](Quick_sort.py)  
+
