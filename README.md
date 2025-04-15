@@ -7,4 +7,4 @@ Data Structures and Algorithms
 [Stack](Stack.py)  
 [bucket_sort](bucket_sort.py)  
 [QUICK_SORT](Quick_sort.py)  
-
+[PRIMS_ALGORITHM](Prim'salgorithm.py) 
